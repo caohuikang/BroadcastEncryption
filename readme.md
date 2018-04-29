@@ -1,4 +1,4 @@
-*This project implements a broadcast encryption with small ciphertext.
+*This project implements an adaptive secure broadcast encryption with small ciphertext.
 
 *An immplementation of paper:Adaptive Security in Broadcast Encryption Systems (with Short Ciphertexts).
 
