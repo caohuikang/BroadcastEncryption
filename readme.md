@@ -1,6 +1,6 @@
 *This project implements an adaptive secure broadcast encryption with small ciphertext.
 
-*An immplementation of paper:Adaptive Security in Broadcast Encryption Systems (with Short Ciphertexts).
+*An implementation of paper:Adaptive Security in Broadcast Encryption Systems (with Short Ciphertexts).
 
 *Need jar packages: jpbc-api-2.0.0.jar, jpbc-crypto-2.0.0.jar and jpbc-plaf-2.0.0.jar.
 
